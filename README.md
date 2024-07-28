@@ -1,9 +1,9 @@
 <!-------------------------------------------------------Hi there, I'm Monisha------------------------------>
 <div align="center">
-  <h1>Hi there, I'm <a href="https://twitter.com/arun664__" target="_blank">Monisha R</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Hi there, I'm Monisha R<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
-  <h3>💻 Info Technology Senior Associate | :earth_asia: Bangalore, India <h3>
+  <h3>💻 Info Technology Analyst | :earth_asia: Bangalore, India <h3>
 </div>
 
 <!----------------------------------------------------Social links------------------------------------------->
