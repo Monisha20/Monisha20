@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Monisha R<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
-  <h3>Computer Science Graduate Student | :earth_asia: Indianapolis, Inidana, United States <h3>
+  <h3>Computer Science Graduate Student | :earth_asia: Indianapolis, Indana, United States of America<h3>
 </div>
 
 <!----------------------------------------------------Social links------------------------------------------->
